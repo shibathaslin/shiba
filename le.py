@@ -1,4 +1,4 @@
-a=int(input("enter the number:"))
+a=int(input(""))
 if(a%4==0):
   print("yes")
 else:
